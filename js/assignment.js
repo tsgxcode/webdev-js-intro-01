@@ -43,5 +43,5 @@ function render() {
 submissionBtn.addEventListener("click", function () {
     // Calling the function that renders the update
     // when the button is clicked
-    render(book + activity);
+    render();
 })
